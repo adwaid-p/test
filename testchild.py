@@ -1,2 +1,4 @@
 # #Adding new file in the child branch
-print("Inside Child branch")
+a = 10
+print("Inside Child branch /")
+print(a)
